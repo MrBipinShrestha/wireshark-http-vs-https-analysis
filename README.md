@@ -562,7 +562,7 @@ See `LICENSE` file for full details.
 ## 👤 Author
 
 **Repository Created By:** Bipin Shrestha  
-**Based On:** MIT503 Information Security Course (Task 3)  
+**Focus Area:** Network Security & Traffic Analysis  
 **Last Updated:** June 2024  
 **Maintained For:** SOC analysts, network engineers, students
 
